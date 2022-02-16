@@ -8,6 +8,7 @@
 - 关闭分享
 
 # 为什么是它
+
 ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/012.png)
 - 简单：
   - 无需安装，单个文件，双击运行程序即可分享，无需部署，无需配置
@@ -24,8 +25,10 @@
 - 将「分享器」放在想要分享的文件夹中，如果想要分享桌面的文件，那将「分享器」放在桌面即可
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/007.png)
 - 双击「分享器」
+
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/008.png)
 - 右键「分享器」，点击打开分享页面，在浏览器打开你正在分享的文件夹页面
+
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/009.png)
 - 复制该链接，发送给小伙伴，小伙伴访问该链接将得到相同的页面
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/010.png)
@@ -36,10 +39,12 @@
 
 # mac 端使用说明
 - 点击[下载局域网分享器](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/share.command)，得到「分享器」文件
+
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/001.png)
 - 将「分享器」放在想要分享的文件夹中，如果想要分享桌面的文件，那将「分享器」放在桌面即可
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/002.png)
 - 双击运行「分享器」
+
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/003.png)
 - 「分享器」将自动在浏览器打开你正在分享的文件夹页面
 - 复制该链接，发送给小伙伴，小伙伴访问该链接将得到相同的页面
@@ -81,6 +86,7 @@ os.system('python -m SimpleHTTPServer ' + str(randomPort))
 - mac 端若提示没有权限执行该软件，则需要赋予权限，但授权过程仅需执行一次，后续使用无需再次授权。
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/016.png)
 - 打开 mac 自带的「终端」软件
+
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/014.png)
 - 输入`chmod +x `，将该软件拖入终端中，自动获取该软件的路径。
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/015.png)
