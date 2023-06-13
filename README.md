@@ -38,7 +38,7 @@
   - 未找到该工具的作者信息，在此只能默念表示感谢了。
 
 # mac 端使用说明
-- 点击[下载局域网分享器](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/share.command)，得到「分享器」文件
+- 点击[下载局域网分享器](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/share.sh)，得到「分享器」文件
 
   ![](http://upyun.luckly-mjw.cn/Assets/lan-transmitter/001.png)
 - 将「分享器」放在想要分享的文件夹中，如果想要分享桌面的文件，那将「分享器」放在桌面即可
